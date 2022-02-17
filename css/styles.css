@@ -96,12 +96,14 @@ hr{
   width: 25%;
   float: left;
   margin-right: 30px;
+  padding-bottom: 180px;
 }
 
 .guitar {
   width: 25%;
   float: right;
   margin-left: 30px;
+  padding-bottom: 180px;
 }
 
 a.btn
@@ -155,6 +157,10 @@ a.btn:hover
   text-decoration: none;
   font-weight: bold;
   font-size: 1.25rem;
+}
+
+#context{
+  padding-bottom: 60px;
 }
 
 #ipro {
