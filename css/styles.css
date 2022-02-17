@@ -8,15 +8,18 @@ body{
 
 h1{
   color: #35858B;
-  font-family: 'The Nautigal', cursive;
+  font-family: 'Mechanismo-Regular', cursive;
   font-size: 100px;
+}
+
+@font-face {
+    font-family: Mechanismo-Regular;
+    src: url(../fonts/Mechanismo-Regular.ttf);
 }
 
 label,li,p,th,td{
   font-family: 'Mali', cursive;
 }
-
-
 
 h3{
 color: #66BFBF;
