@@ -11,7 +11,7 @@ A modern, simplistic, minimalist porfolio website to tell about yourself, and yo
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-
+<br />
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -20,7 +20,7 @@ A modern, simplistic, minimalist porfolio website to tell about yourself, and yo
   </a>
 
 <h3 align="center">Modern Portfolio Website</h3>
-
+<br />
   <p align="center">
     A modern, simplistic, minimalist porfolio website to tell about yourself, and your skills and build a personal brand!
     <br />
@@ -30,25 +30,20 @@ A modern, simplistic, minimalist porfolio website to tell about yourself, and yo
     ·
     <a href="https://github.com/vteam27/Modern-Portfolio-Website/issues">Request Feature</a>
   </p>
+  <br />
 </div>
 
 
-<br />
-### Built With
+## Built With
 
 * [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+* [![React][React.js]][React-url] <br />
 
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- CONTACT -->
@@ -58,17 +53,11 @@ Email- tiwarivaibhavin@gmail.com
 
 Project Link: [https://github.com/vteam27/Modern-Portfolio-Website](https://github.com/vteam27/Modern-Portfolio-Website)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
 * Angela Yu
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
